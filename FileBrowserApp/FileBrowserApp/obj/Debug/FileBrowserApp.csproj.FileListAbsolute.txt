@@ -1,0 +1,15 @@
+C:\Users\joel\Documents\Projects\FileBrowserApp\FileBrowserApp\bin\Debug\FileBrowserApp.dll
+C:\Users\joel\Documents\Projects\FileBrowserApp\FileBrowserApp\bin\Debug\FileBrowserApp.pdb
+C:\Users\joel\Documents\Projects\FileBrowserApp\FileBrowserApp\bin\Debug\FileBrowserApp.dll.mdb
+C:\Users\joel\Documents\Projects\FileBrowserApp\FileBrowserApp\bin\Debug\FileBrowserApp.FileBrowserApp.apk
+C:\Users\joel\Documents\Projects\FileBrowserApp\FileBrowserApp\bin\Debug\FileBrowserApp.FileBrowserApp-Signed.apk
+C:\Users\joel\Documents\Projects\FileBrowserApp\FileBrowserApp\obj\Debug\FileBrowserApp.dll
+C:\Users\joel\Documents\Projects\FileBrowserApp\FileBrowserApp\obj\Debug\FileBrowserApp.pdb
+C:\Users\joel\Documents\Projects\FileBrowserApp\FileBrowserApp\obj\Debug\android\bin\FileBrowserApp.FileBrowserApp.apk
+C:\Users\joel\Documents\Projects\FileBrowserApp\FileBrowserApp\obj\Debug\res\layout\main.xml
+C:\Users\joel\Documents\Projects\FileBrowserApp\FileBrowserApp\obj\Debug\res\values\strings.xml
+C:\Users\joel\Documents\Projects\FileBrowserApp\FileBrowserApp\obj\Debug\res\drawable\icon.png
+C:\Users\joel\Documents\Projects\FileBrowserApp\FileBrowserApp\obj\Debug\R.cs.flag
+C:\Users\joel\Documents\Projects\FileBrowserApp\FileBrowserApp\obj\Debug\uploadflags.txt
+C:\Users\joel\Documents\Projects\FileBrowserApp\FileBrowserApp\obj\Debug\res\drawable\folder.png
+C:\Users\joel\Documents\Projects\FileBrowserApp\FileBrowserApp\obj\Debug\res\drawable\file.png
