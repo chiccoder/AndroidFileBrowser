@@ -2,7 +2,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="FileBrowserApp\MainActivity.cs">
     <Files>
-      <File FileName="FileBrowserApp\MainActivity.cs" Line="83" Column="41" />
+      <File FileName="FileBrowserApp\MainActivity.cs" Line="129" Column="1" />
+      <File FileName="FileBrowserApp\SwipeListener.cs" Line="45" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -11,5 +12,5 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="FileBrowserApp\MainActivity.cs" line="26" offsetX="420" offsetY="425" expression="directories" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.ItemProperties.FileBrowserApp MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" AndroidDeviceId-Debug="371535b1" />
+  <MonoDevelop.Ide.ItemProperties.FileBrowserApp MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" MonoForAntroid.PreferredTheme="Theme.NoTitleBar.Fullscreen" />
 </Properties>

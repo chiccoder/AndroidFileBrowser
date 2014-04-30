@@ -1,1 +1,2 @@
 FileBrowserApp.MainActivity;filebrowserapp.MainActivity
+FileBrowserApp.GestureListener;filebrowserapp.GestureListener

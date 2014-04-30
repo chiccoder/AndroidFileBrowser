@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="FileBrowserApp.FileBrowserApp">
 	<uses-sdk />
-	<application android:icon="@drawable/icon" android:label="File Browser"></application>
+	<application android:icon="@drawable/folder2" android:label="File Browser"></application>
 </manifest>
